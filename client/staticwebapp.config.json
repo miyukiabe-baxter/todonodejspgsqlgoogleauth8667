@@ -1,9 +1,6 @@
 {
   "routes": [
     {
-      "route": "1stRoute"
-    },
-    {
       "route": "anotherOne"
     }
   ]
