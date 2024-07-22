@@ -5,6 +5,9 @@
     },
     {
       "route": "/profiletest"
+    },
+    {
+      "route": "/profileyeahtest"
     }
   ]
 }
