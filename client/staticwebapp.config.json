@@ -2,12 +2,6 @@
   "routes": [
     {
       "route": "anotherOne"
-    },
-    {
-      "route": "/profiletest"
-    },
-    {
-      "route": "/profileyeahtest-v2"
     }
   ]
 }
